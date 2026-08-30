@@ -1,6 +1,8 @@
-# DATA 201 -- Spring 2026
+# DATA 201 — Fall 2026 (CRN 21732)
 
-## 14-Week Course Flow: Topics and Learning Objectives
+## Course Flow: Topics and Learning Objectives
+
+> For the official meeting schedule, grading, and due dates, see the [Fall 2026 syllabus](../DATA%20201%20Fall%202026%20Syllabus%20CRN21732.pdf) and [README](../README.md).
 
 **Course format:** 14-week semester, 2 × 75-minute classes per week\
 **Audience:** Students with prior R experience, transitioning to Python
