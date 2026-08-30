@@ -1,8 +1,10 @@
 # DATA 201 — Statistical Methods in Data Science
 
-**Fall 2026 · CRN 23160**
+**Fall 2026 · CRN 21732**
 
 This repository is the course hub for DATA 201. Weekly materials, labs, readings, and assignment notes live in the folders linked below.
+
+**Official syllabus:** [DATA 201 Fall 2026 Syllabus (CRN 21732)](DATA%20201%20Fall%202026%20Syllabus%20CRN21732.pdf)
 
 > The schedule is tentative and may be adjusted as the semester progresses.
 > Updates will be announced in class, on Blackboard, and in Microsoft Teams.
@@ -15,7 +17,9 @@ This repository is the course hub for DATA 201. Weekly materials, labs, readings
 |---|---|
 | **Instructor** | Dr. Rebin Abdulkader Muhammad |
 | **Email** | [Rebin.Muhammad@montgomerycollege.edu](mailto:Rebin.Muhammad@montgomerycollege.edu) |
+| **Office phone** | 240-567-1931 |
 | **Office hours** | Every day, 12:00–1:00 PM via Microsoft Teams |
+| **Course** | DATA 201 ZRA — Statistical Methods in Data Science |
 | **Meeting** | Thursday, 6:00–8:55 PM (online, Microsoft Teams) |
 | **First meeting** | Thursday, September 3, 2026 |
 | **Last meeting** | Thursday, December 17, 2026 |
