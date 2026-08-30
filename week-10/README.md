@@ -13,6 +13,8 @@
 - ISLP Chapter 8
 - Müller & Guido Chapter 2
 - Ensemble comparison lab
+- [Week 10 ensemble regression slides](week-10-ensemble-regression-slides.md)
+- [Week 10 ensemble regression notebook](DATA_201_Week_10_Regression_with_Ensemble_Methods.ipynb)
 
 ## Notes
 

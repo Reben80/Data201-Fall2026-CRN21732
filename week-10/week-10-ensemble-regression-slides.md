@@ -1,9 +1,9 @@
 <!-- .slide: data-background-color="#1F4E79" -->
-# DATA 201 — Week 9a
-## Regression with Ensemble Methods
+# DATA 201 — Week 10
+## Ensemble Methods for Regression
 ### Student-Friendly Slides (60-minute class)
 
-Instructor: Prof. L. A. Perine  
+Instructor: Dr. Rebin Abdulkader Muhammad  
 Audience: Early college students  
 Focus: Decision Trees · Random Forest · Gradient Boosting
 
