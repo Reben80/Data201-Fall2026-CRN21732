@@ -14,8 +14,9 @@
 
 - ISLP Chapters 1–2
 - Google Colab introduction
+- Github
 - Short problem-framing activity
-- [GitHub, and Google Colab]
+- [Markddown Tutorial](https://reben80.github.io/markdwon_Tutorial-/)
 - [GitHub project repository setup YouTube](https://youtu.be/9lBP1ZN32p0)
 - [Week 1 assignment: Github and Markdown](Week1_GitHub_Markdown_Assignment_v1.md)
 
