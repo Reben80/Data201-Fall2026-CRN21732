@@ -12,8 +12,8 @@ This assignment introduces two essential tools for this course:
 -   **Markdown** (for clear, structured communication)
 
 By the end of this assignment, you will: - Create or access a GitHub
-account\
-- Create a repository\
+account
+- Create a repository
 - Write and publish a properly formatted Markdown document\
 - Connect with classmates on GitHub
 
@@ -27,11 +27,11 @@ communication.
 If you already have a GitHub account, move to Part 2.
 
 1.  Go to: https://github.com
-2.  Click **Sign Up**\
+2.  Click **Sign Up**
 3.  Choose:
-    -   A professional username\
-    -   A valid email address\
-    -   A secure password\
+    -   A professional username
+    -   A valid email address
+    -   A secure password
 4.  Verify your email.
 
 Use a username you would feel comfortable sharing on a résumé.
@@ -95,7 +95,7 @@ Demonstrate: - **Bold text** - *Italic text*
 
 ### 4. Lists
 
-Include: - One ordered list\
+Include: - One ordered list
 - One unordered list
 
 ------------------------------------------------------------------------
@@ -108,7 +108,7 @@ Add at least one hyperlink to a website of your choice.
 
 ### 6. Images
 
-Insert one image using an online image URL.\
+Insert one image using an online image URL.
 (You may use a personal interest, hobby, favorite place, etc.)
 
 ------------------------------------------------------------------------
@@ -121,7 +121,7 @@ Include one meaningful quote using Markdown blockquote syntax.
 
 ### 8. Inline Code & Code Block
 
-Demonstrate: - Inline code using single backticks\
+Demonstrate: - Inline code using single backticks
 - A multi-line code block using triple backticks
 
 ------------------------------------------------------------------------
@@ -129,8 +129,8 @@ Demonstrate: - Inline code using single backticks\
 ### 9. Table
 
 Create a simple table (example topics): - Programming languages
-comparison\
-- Favorite hobbies\
+comparison
+- Favorite hobbies
 - Tools you want to learn
 
 ------------------------------------------------------------------------
@@ -167,7 +167,7 @@ When finished:
 
 1.  Scroll to the bottom of the page.
 
-2.  Write a meaningful commit message\
+2.  Write a meaningful commit message
     Example:
 
         Add Markdown-Exercise.md with required formatting elements
@@ -193,10 +193,10 @@ Make sure the link opens publicly without login issues.
 
 Your grade will be based on:
 
--   Correct use of Markdown syntax\
--   Inclusion of all required elements\
--   Organization and clarity\
--   Effort and creativity\
+-   Correct use of Markdown syntax
+-   Inclusion of all required elements
+-   Organization and clarity
+-   Effort and creativity
 -   Following at least 3 classmates on GitHub
 
 This is not about writing something long. It is about writing something
