@@ -15,9 +15,10 @@
 - ISLP Chapters 1–2
 - Google Colab introduction
 - Short problem-framing activity
-- [Introduction to Git, GitHub, and Google Colab](Introduction%20to%20Git-%20GitHub%20and%20google%20colab.docx)
-- [GitHub project repository setup (PDF)](Github%20Project%20Repo.pdf)
-- [GitHub project repository setup (DOCX)](Github%20Project%20Repo.docx)
+- [GitHub, and Google Colab]
+- [GitHub project repository setup](https://youtu.be/9lBP1ZN32p0)
+- [Week 1 assignment: Github and Markdown]( )
+- 
 
 ## Notes
 
