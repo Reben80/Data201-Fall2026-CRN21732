@@ -41,7 +41,7 @@ Use a username you would feel comfortable sharing on a résumé.
 ## Part 2 --- Create (or Locate) Your Repository
 
 If you created a repository in class, log in and navigate to it (for
-example: `Data110`).
+example: `Data201`).
 
 If you do **not** have a repository yet:
 
