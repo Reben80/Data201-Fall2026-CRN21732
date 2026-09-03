@@ -18,7 +18,6 @@
 - [GitHub, and Google Colab]
 - [GitHub project repository setup](https://youtu.be/9lBP1ZN32p0)
 - [Week 1 assignment: Github and Markdown](Week1_GitHub_Markdown_Assignment_v1.md)
-- 
 
 ## Notes
 
