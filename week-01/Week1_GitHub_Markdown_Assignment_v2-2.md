@@ -26,7 +26,7 @@ communication.
 
 If you already have a GitHub account, move to Part 2.
 
-1.  Go to: https://github.com\
+1.  Go to: https://github.com
 2.  Click **Sign Up**\
 3.  Choose:
     -   A professional username\
