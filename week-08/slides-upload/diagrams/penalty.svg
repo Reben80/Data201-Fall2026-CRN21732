@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Fit the data, but pay for large weights</text>
+  <rect x="70" y="120" width="280" height="200" rx="18" fill="#0072b2"/>
+  <text x="210" y="200" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="650">Training</text>
+  <text x="210" y="240" text-anchor="middle" fill="#d6e8f5" font-family="Montserrat, Arial, sans-serif" font-size="22">error</text>
+  <text x="390" y="230" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="48" font-weight="650">+</text>
+  <rect x="450" y="120" width="280" height="200" rx="18" fill="#0f7a72"/>
+  <text x="590" y="190" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="650">alpha times</text>
+  <text x="590" y="230" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="650">a penalty</text>
+  <text x="590" y="270" text-anchor="middle" fill="#d5eee9" font-family="Montserrat, Arial, sans-serif" font-size="18">on the coefficients</text>
+  <text x="770" y="230" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="48" font-weight="650">=</text>
+  <rect x="830" y="120" width="230" height="200" rx="18" fill="#1c2430"/>
+  <text x="945" y="210" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">What the</text>
+  <text x="945" y="250" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">model minimizes</text>
+  <text x="210" y="390" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">alpha = 0: ordinary least squares</text>
+  <text x="590" y="390" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">moderate alpha: shrink a little</text>
+  <text x="945" y="390" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">huge alpha: almost all zero</text>
+  <text x="560" y="450" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">Books often write lambda. In scikit-learn the same dial is called alpha.</text>
+
+</svg>

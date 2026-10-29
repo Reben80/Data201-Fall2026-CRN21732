@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Why lasso hits zero, and ridge does not</text>
+  <text x="300" y="95" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">Lasso: diamond</text>
+  <text x="820" y="95" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">Ridge: circle</text>
+  <line x1="120" y1="320" x2="480" y2="320" stroke="#d5dee6" stroke-width="2"/>
+  <line x1="300" y1="140" x2="300" y2="400" stroke="#d5dee6" stroke-width="2"/>
+  <polygon points="300,180 420,320 300,380 180,320" fill="#e8f4fb" stroke="#0072b2" stroke-width="3"/>
+  <ellipse cx="380" cy="250" rx="70" ry="45" fill="none" stroke="#c45c26" stroke-width="2" transform="rotate(-30 380 250)"/>
+  <ellipse cx="360" cy="265" rx="95" ry="60" fill="none" stroke="#c45c26" stroke-width="1.5" opacity="0.6" transform="rotate(-30 360 265)"/>
+  <circle cx="420" cy="230" r="6" fill="#1c2430"/>
+  <circle cx="300" cy="180" r="8" fill="#0072b2"/>
+  <text x="300" y="160" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="650">touches a corner</text>
+  <text x="300" y="435" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="18">One coefficient is exactly 0</text>
+  <line x1="640" y1="320" x2="1000" y2="320" stroke="#d5dee6" stroke-width="2"/>
+  <line x1="820" y1="140" x2="820" y2="400" stroke="#d5dee6" stroke-width="2"/>
+  <circle cx="820" cy="280" r="90" fill="#e8f4fb" stroke="#0f7a72" stroke-width="3"/>
+  <ellipse cx="900" cy="230" rx="70" ry="45" fill="none" stroke="#c45c26" stroke-width="2" transform="rotate(-25 900 230)"/>
+  <ellipse cx="880" cy="245" rx="95" ry="60" fill="none" stroke="#c45c26" stroke-width="1.5" opacity="0.6" transform="rotate(-25 880 245)"/>
+  <circle cx="940" cy="210" r="6" fill="#1c2430"/>
+  <circle cx="880" cy="230" r="8" fill="#0f7a72"/>
+  <text x="820" y="160" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="650">touches the side</text>
+  <text x="820" y="435" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="18">Both coefficients stay nonzero</text>
+  <text x="560" y="475" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">Black dot: least squares. Orange rings: equal training error. Blue: the regularized answer.</text>
+
+</svg>

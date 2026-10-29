@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">A six-step workflow</text>
+  <rect x="50" y="120" width="150" height="120" rx="16" fill="#0072b2"/><text x="125" y="175" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">1 Split</text><text x="125" y="205" text-anchor="middle" fill="#d6e8f5" font-family="Montserrat, Arial, sans-serif" font-size="15">hold out test</text>
+  <rect x="230" y="120" width="150" height="120" rx="16" fill="#0072b2"/><text x="305" y="175" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">2 Scale</text><text x="305" y="205" text-anchor="middle" fill="#d6e8f5" font-family="Montserrat, Arial, sans-serif" font-size="15">in the pipeline</text>
+  <rect x="410" y="120" width="170" height="120" rx="16" fill="#0f7a72"/><text x="495" y="175" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">3 Fit CV</text><text x="495" y="205" text-anchor="middle" fill="#d5eee9" font-family="Montserrat, Arial, sans-serif" font-size="15">pick alpha</text>
+  <rect x="610" y="120" width="150" height="120" rx="16" fill="#0f7a72"/><text x="685" y="175" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">4 Compare</text><text x="685" y="205" text-anchor="middle" fill="#d5eee9" font-family="Montserrat, Arial, sans-serif" font-size="15">to least squares</text>
+  <rect x="790" y="120" width="140" height="120" rx="16" fill="#1c2430"/><text x="860" y="175" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">5 Inspect</text><text x="860" y="205" text-anchor="middle" fill="#d5e4f0" font-family="Montserrat, Arial, sans-serif" font-size="15">coefs, zeros</text>
+  <rect x="960" y="120" width="110" height="120" rx="16" fill="#1c2430"/><text x="1015" y="175" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">6 Test</text><text x="1015" y="205" text-anchor="middle" fill="#d5e4f0" font-family="Montserrat, Arial, sans-serif" font-size="15">once</text>
+  <text x="560" y="320" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="22">Report the chosen alpha, the test score, and how many coefficients survived.</text>
+  <text x="560" y="370" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">make_pipeline(StandardScaler(), LassoCV(cv=5))</text>
+  <text x="560" y="420" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">Everything learned from data stays inside the pipeline.</text>
+
+</svg>

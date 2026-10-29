@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Alpha is the bias-variance dial</text>
+  <text x="120" y="120" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">Test error</text>
+  <path d="M120 360 C 220 120, 420 100, 560 150 C 720 210, 860 280, 980 340" fill="none" stroke="#0072b2" stroke-width="5"/>
+  <line x1="120" y1="380" x2="1000" y2="380" stroke="#1c2430" stroke-width="2"/>
+  <line x1="120" y1="100" x2="120" y2="380" stroke="#1c2430" stroke-width="2"/>
+  <circle cx="220" cy="200" r="10" fill="#c45c26"/>
+  <circle cx="560" cy="150" r="12" fill="#0f7a72"/>
+  <circle cx="900" cy="300" r="10" fill="#c45c26"/>
+  <text x="220" y="420" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">alpha too small</text>
+  <text x="220" y="448" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">overfit</text>
+  <text x="560" y="420" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">sweet spot</text>
+  <text x="560" y="448" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">chosen by CV</text>
+  <text x="900" y="420" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">alpha too large</text>
+  <text x="900" y="448" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">underfit</text>
+
+</svg>

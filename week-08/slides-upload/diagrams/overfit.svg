@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">More features give the model more room to fit noise</text>
+  <text x="280" y="100" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">Few features</text>
+  <text x="840" y="100" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">Many features</text>
+  <rect x="80" y="130" width="400" height="250" rx="16" fill="#ffffff" stroke="#d5dee6"/>
+  <circle cx="140" cy="300" r="8" fill="#0072b2"/><circle cx="200" cy="250" r="8" fill="#0072b2"/>
+  <circle cx="260" cy="270" r="8" fill="#0072b2"/><circle cx="320" cy="200" r="8" fill="#0072b2"/>
+  <circle cx="380" cy="180" r="8" fill="#0072b2"/><circle cx="420" cy="160" r="8" fill="#0072b2"/>
+  <path d="M120 310 C 200 280, 280 240, 420 150" fill="none" stroke="#0f7a72" stroke-width="4"/>
+  <text x="280" y="420" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">A stable fit</text>
+  <rect x="640" y="130" width="400" height="250" rx="16" fill="#ffffff" stroke="#d5dee6"/>
+  <circle cx="700" cy="300" r="8" fill="#0072b2"/><circle cx="760" cy="250" r="8" fill="#0072b2"/>
+  <circle cx="820" cy="270" r="8" fill="#0072b2"/><circle cx="880" cy="200" r="8" fill="#0072b2"/>
+  <circle cx="940" cy="180" r="8" fill="#0072b2"/><circle cx="980" cy="160" r="8" fill="#0072b2"/>
+  <path d="M680 310 C 720 120, 760 340, 820 140 C 860 320, 900 100, 1000 150" fill="none" stroke="#c45c26" stroke-width="4"/>
+  <text x="840" y="420" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">Training looks perfect</text>
+  <text x="560" y="470" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">New data will not follow that wild path.</text>
+
+</svg>

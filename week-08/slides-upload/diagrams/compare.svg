@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Pick the tool that matches the job</text>
+  <rect x="60" y="100" width="480" height="330" rx="18" fill="#ffffff" stroke="#0072b2" stroke-width="3"/>
+  <text x="300" y="150" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="28" font-weight="650">Ridge (L2)</text>
+  <text x="100" y="210" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">Squares the coefficients</text>
+  <text x="100" y="250" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">Keeps every feature</text>
+  <text x="100" y="290" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">Shares weight among correlated ones</text>
+  <text x="100" y="330" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">Best when many features each help a little</text>
+  <text x="100" y="380" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">Ridge, RidgeCV</text>
+  <rect x="580" y="100" width="480" height="330" rx="18" fill="#ffffff" stroke="#0f7a72" stroke-width="3"/>
+  <text x="820" y="150" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="28" font-weight="650">Lasso (L1)</text>
+  <text x="620" y="210" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">Uses absolute coefficients</text>
+  <text x="620" y="250" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">Can set some exactly to 0</text>
+  <text x="620" y="290" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">Often keeps one of a correlated pair</text>
+  <text x="620" y="330" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">Best when only a few features matter</text>
+  <text x="620" y="380" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">Lasso, LassoCV</text>
+
+</svg>

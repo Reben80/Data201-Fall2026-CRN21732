@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">The penalty only sees the size of the number</text>
+  <rect x="70" y="110" width="460" height="250" rx="18" fill="#ffffff" stroke="#d5dee6"/>
+  <text x="300" y="160" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">Income in dollars</text>
+  <text x="300" y="220" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="40" font-weight="650">0.002</text>
+  <text x="300" y="270" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">A tiny coefficient looks cheap</text>
+  <text x="300" y="310" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">to the penalty</text>
+  <rect x="590" y="110" width="460" height="250" rx="18" fill="#ffffff" stroke="#d5dee6"/>
+  <text x="820" y="160" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">Income in thousands</text>
+  <text x="820" y="220" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="40" font-weight="650">2.0</text>
+  <text x="820" y="270" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">Same story, larger number,</text>
+  <text x="820" y="310" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">much heavier penalty</text>
+  <text x="560" y="420" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="22">Standardize first: mean 0, standard deviation 1.</text>
+  <text x="560" y="460" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">Put StandardScaler inside the pipeline, just like Week 7.</text>
+
+</svg>
