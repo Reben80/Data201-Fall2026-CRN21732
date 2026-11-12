@@ -133,35 +133,33 @@ ISLP is also available as a free PDF from the [authors' website](https://www.sta
 ---
 
 ### [Week 8 — Oct 22](week-08/)
-**Regularization and model complexity**
-- Ridge and lasso
-- Bias–variance tradeoff
-- Interpretability vs. flexibility
+**Project work**
+- In-class project time
+- Regularization materials remain available in this folder for reference / make-up
 
-**Resources / assignment:** ISLP Ch. 6; regularization lab
+**Resources / assignment:** Project work; ISLP Ch. 6 materials in folder
 
 📁 [Open week materials →](week-08/)
 
 ---
 
 ### [Week 9 — Oct 29](week-09/)
-**Decision trees**
-- Splitting, impurity, and pruning
-- Classification and regression trees
-- Interpretation
+**Museum visit**
+- Course museum visit (counts toward the museum grade)
 
-**Resources / assignment:** ISLP Ch. 8; Müller & Guido Ch. 2; decision-tree lab
+**Resources / assignment:** Museum visit
 
 📁 [Open week materials →](week-09/)
 
 ---
 
 ### [Week 10 — Nov 5](week-10/)
-**Ensemble methods**
-- Bagging, random forests, and boosting
-- Variable importance
+**Decision trees**
+- Splitting, impurity, and pruning
+- Classification and regression trees
+- Interpretation
 
-**Resources / assignment:** ISLP Ch. 8; Müller & Guido Ch. 2; ensemble comparison lab
+**Resources / assignment:** ISLP Ch. 8; Müller & Guido Ch. 2; decision-tree lab
 
 📁 [Open week materials →](week-10/)
 

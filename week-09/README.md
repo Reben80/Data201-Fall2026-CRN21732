@@ -1,24 +1,20 @@
 # Week 9 — Oct 29
 
-**DATA 201: Statistical Methods in Data Science**
+**DATA 201: Statistical Methods in Data Science**  
+**Instructor:** Rebin Muhammad, Montgomery College
 
 ## Topics
 
-- **Decision trees** — Partitioning the feature space with a sequence of splits.
-- **Splitting, impurity, and pruning** — How trees choose splits and how they are kept from growing too large.
-- **Classification and regression trees** — Trees for categorical outcomes and for quantitative outcomes.
-- **Interpretation** — Reading a tree, important splits, and limitations of a single tree.
+- **Museum visit** — Class meets at the museum (counts toward the museum grade).
 
 ## Resources / assignment
 
-- ISLP Chapter 8
-- Müller & Guido Chapter 2
-- Decision-tree lab
+- Museum visit (see Blackboard / Teams for logistics)
 
 ## Notes
 
-- This folder is for Week 9 materials: notebooks, slides, datasets, and instructions.
-- Add labs, readings, or assignments here as the week is updated.
+- Decision trees moved to [Week 10](../week-10/).
+- Week 8 was project work.
 
 ---
 

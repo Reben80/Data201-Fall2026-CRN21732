@@ -27,7 +27,7 @@
 
 ## Notes
 
-- Week 8 did not meet; this week covers decision trees.
+- Week 8 was project work; Week 9 was the museum visit. Decision trees are covered this week.
 - Next topic: ensembles (bagging, random forests, boosting).
 
 ---

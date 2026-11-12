@@ -16,8 +16,9 @@
 
 ## Notes
 
-- This folder is for Week 8 materials: notebooks, slides, datasets, and instructions.
-- Add labs, readings, or assignments here as the week is updated.
+- Class meeting this week was **project work**.
+- Regularization slides, Hitters lab, and HW remain in this folder for students to use.
+- Week 9 was the museum visit; decision trees are in [Week 10](../week-10/).
 
 ---
 
