@@ -19,6 +19,7 @@
 | `slides_deck-week10.zip` | Zip for Slides.com Import |
 | `ISLP-Ch8.pdf` | Reading: ISLP Chapter 8 |
 | `IMLP-Ch2.pdf` | Reading: Müller & Guido Chapter 2 |
+| `Week10-HW.pdf` | Homework (Carseats tree + lab wrap-up) |
 
 ## Readings
 
