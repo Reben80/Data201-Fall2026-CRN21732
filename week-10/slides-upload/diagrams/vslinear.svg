@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">When a line fits, a tree becomes a staircase</text>
+  <rect x="80" y="90" width="460" height="320" rx="16" fill="#ffffff" stroke="#d5dee6"/>
+  <text x="310" y="130" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">True boundary is linear</text>
+  <line x1="140" y1="350" x2="480" y2="150" stroke="#c45c26" stroke-width="4"/>
+  <path d="M160 340 L 220 340 L 220 300 L 280 300 L 280 260 L 340 260 L 340 220 L 400 220 L 400 180 L 460 180" fill="none" stroke="#0072b2" stroke-width="4"/>
+  <text x="200" y="380" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="16">line</text>
+  <text x="380" y="380" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="16">tree staircase</text>
+  <rect x="580" y="90" width="460" height="320" rx="16" fill="#ffffff" stroke="#d5dee6"/>
+  <text x="810" y="130" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">True boundary is boxy</text>
+  <rect x="650" y="180" width="160" height="160" fill="#d6e8f5" stroke="#0072b2" stroke-width="3"/>
+  <rect x="810" y="180" width="160" height="80" fill="#fde8df" stroke="#c45c26" stroke-width="3"/>
+  <rect x="810" y="260" width="160" height="80" fill="#d6e8f5" stroke="#0072b2" stroke-width="3"/>
+  <text x="810" y="380" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="16">A tree can win here</text>
+  <text x="560" y="460" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="18">Match the model to the shape of the relationship.</text>
+
+</svg>

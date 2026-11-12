@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Trees cannot extrapolate</text>
+  <line x1="100" y1="400" x2="1000" y2="400" stroke="#1c2430" stroke-width="2"/>
+  <line x1="100" y1="100" x2="100" y2="400" stroke="#1c2430" stroke-width="2"/>
+  <!-- training points -->
+  <circle cx="180" cy="340" r="8" fill="#0072b2"/><circle cx="260" cy="300" r="8" fill="#0072b2"/>
+  <circle cx="340" cy="280" r="8" fill="#0072b2"/><circle cx="420" cy="220" r="8" fill="#0072b2"/>
+  <circle cx="500" cy="200" r="8" fill="#0072b2"/><circle cx="580" cy="160" r="8" fill="#0072b2"/>
+  <!-- linear continues -->
+  <line x1="160" y1="360" x2="920" y2="80" stroke="#c45c26" stroke-width="3" stroke-dasharray="8 6"/>
+  <!-- tree staircase then flat -->
+  <path d="M160 350 L 240 310 L 240 290 L 320 270 L 320 250 L 400 210 L 400 190 L 480 180 L 480 160 L 580 150 L 900 150" fill="none" stroke="#0072b2" stroke-width="4"/>
+  <text x="300" y="120" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">Tree stays flat</text>
+  <text x="780" y="120" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">Linear keeps rising</text>
+  <text x="560" y="450" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="18">Past the training range, a tree repeats the last leaf mean it knows.</text>
+
+</svg>

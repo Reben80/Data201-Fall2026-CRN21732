@@ -1,23 +1,34 @@
-# Week 10 — Nov 5
+# Week 10 — Decision Trees
 
-**DATA 201: Statistical Methods in Data Science**
+**DATA 201: Statistical Methods in Data Science**  
+**Instructor:** Rebin Muhammad, Montgomery College
 
 ## Topics
 
-- **Ensemble methods** — Combining many models to improve stability and predictive performance.
-- **Bagging, random forests, and boosting** — Parallel resampling versus sequential error-correcting ensembles.
-- **Variable importance** — Summarizing which features the ensemble relies on, and treating those summaries with care.
+- **Decision trees** — Predicting with a sequence of yes/no questions.
+- **Regression and classification trees** — Means in leaves vs. majority class; RSS vs. impurity.
+- **Overfitting and pruning** — Why full trees memorize, and how to control depth and complexity.
+- **Interpretation** — Reading a tree and using feature importance carefully.
 
-## Resources / assignment
+## Materials in this folder
 
-- ISLP Chapter 8
-- Müller & Guido Chapter 2
-- Ensemble comparison lab
+| File | What it is |
+|------|------------|
+| `Week10_Decision_Trees_Lab.ipynb` | Class / Colab lab (Heart + Hitters) |
+| `slides-upload/` | Offline Reveal deck (for editing / preview) |
+| `slides_deck-week10.zip` | Zip for Slides.com Import |
+| `ISLP-Ch8.pdf` | Reading: ISLP Chapter 8 |
+| `IMLP-Ch2.pdf` | Reading: Müller & Guido Chapter 2 |
+
+## Readings
+
+- ISLP Chapter 8 (trees)
+- Müller & Guido Chapter 2 (decision trees section)
 
 ## Notes
 
-- This folder is for Week 10 materials: notebooks, slides, datasets, and instructions.
-- Add labs, readings, or assignments here as the week is updated.
+- Week 8 did not meet; this week covers decision trees.
+- Next topic: ensembles (bagging, random forests, boosting).
 
 ---
 

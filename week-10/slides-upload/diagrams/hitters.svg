@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Hitters: predict log salary</text>
+  <rect x="400" y="70" width="320" height="70" rx="14" fill="#0072b2"/>
+  <text x="560" y="102" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">Years &lt; 4.5 ?</text>
+  <text x="560" y="126" text-anchor="middle" fill="#d6e8f5" font-family="Montserrat, Arial, sans-serif" font-size="14">root</text>
+  <line x1="480" y1="140" x2="280" y2="200" stroke="#1c2430" stroke-width="3"/>
+  <line x1="640" y1="140" x2="840" y2="200" stroke="#1c2430" stroke-width="3"/>
+  <text x="360" y="180" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="650">yes</text>
+  <text x="760" y="180" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="650">no</text>
+  <rect x="160" y="210" width="240" height="90" rx="14" fill="#0f7a72"/>
+  <text x="280" y="250" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="26" font-weight="650">5.11</text>
+  <text x="280" y="280" text-anchor="middle" fill="#d5eee9" font-family="Montserrat, Arial, sans-serif" font-size="16">about $166k</text>
+  <rect x="720" y="210" width="280" height="70" rx="14" fill="#0072b2"/>
+  <text x="860" y="254" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">Hits &lt; 117.5 ?</text>
+  <line x1="800" y1="280" x2="720" y2="340" stroke="#1c2430" stroke-width="3"/>
+  <line x1="920" y1="280" x2="1000" y2="340" stroke="#1c2430" stroke-width="3"/>
+  <rect x="620" y="350" width="200" height="80" rx="14" fill="#0f7a72"/>
+  <text x="720" y="385" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="650">6.00</text>
+  <text x="720" y="412" text-anchor="middle" fill="#d5eee9" font-family="Montserrat, Arial, sans-serif" font-size="15">about $403k</text>
+  <rect x="900" y="350" width="200" height="80" rx="14" fill="#0f7a72"/>
+  <text x="1000" y="385" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="650">6.74</text>
+  <text x="1000" y="412" text-anchor="middle" fill="#d5eee9" font-family="Montserrat, Arial, sans-serif" font-size="15">about $846k</text>
+  <text x="560" y="470" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="18">Each leaf predicts the mean log salary of the training players who land there.</text>
+
+</svg>

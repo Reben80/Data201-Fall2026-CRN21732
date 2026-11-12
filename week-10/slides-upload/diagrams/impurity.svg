@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Impurity: how mixed is the node?</text>
+  <rect x="80" y="110" width="300" height="260" rx="18" fill="#ffffff" stroke="#d5dee6"/>
+  <text x="230" y="160" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">Node A</text>
+  <text x="230" y="200" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="40" font-weight="650">10 Yes</text>
+  <text x="230" y="250" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="22">0 No</text>
+  <text x="230" y="320" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Pure · impurity 0</text>
+  <rect x="410" y="110" width="300" height="260" rx="18" fill="#ffffff" stroke="#d5dee6"/>
+  <text x="560" y="160" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">Node B</text>
+  <text x="560" y="200" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="40" font-weight="650">8 Yes</text>
+  <text x="560" y="250" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="22">2 No</text>
+  <text x="560" y="320" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Low impurity</text>
+  <rect x="740" y="110" width="300" height="260" rx="18" fill="#ffffff" stroke="#d5dee6"/>
+  <text x="890" y="160" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">Node C</text>
+  <text x="890" y="200" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="40" font-weight="650">5 Yes</text>
+  <text x="890" y="250" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="22">5 No</text>
+  <text x="890" y="320" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Most mixed</text>
+  <text x="560" y="440" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20">Goal: find splits that create children with lower impurity.</text>
+
+</svg>

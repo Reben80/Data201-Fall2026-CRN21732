@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="44" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">One model, two views</text>
+  <text x="280" y="90" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">Tree of questions</text>
+  <text x="840" y="90" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">Feature-space partition</text>
+  <rect x="160" y="110" width="240" height="56" rx="12" fill="#0072b2"/>
+  <text x="280" y="145" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">X1 &lt; t1 ?</text>
+  <line x1="220" y1="166" x2="140" y2="220" stroke="#1c2430" stroke-width="3"/>
+  <line x1="340" y1="166" x2="420" y2="220" stroke="#1c2430" stroke-width="3"/>
+  <rect x="60" y="230" width="160" height="56" rx="12" fill="#0f7a72"/>
+  <text x="140" y="265" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">R1</text>
+  <rect x="340" y="230" width="160" height="56" rx="12" fill="#0072b2"/>
+  <text x="420" y="265" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">X2 &lt; t2 ?</text>
+  <line x1="380" y1="286" x2="340" y2="340" stroke="#1c2430" stroke-width="3"/>
+  <line x1="460" y1="286" x2="500" y2="340" stroke="#1c2430" stroke-width="3"/>
+  <rect x="260" y="350" width="160" height="56" rx="12" fill="#0f7a72"/>
+  <text x="340" y="385" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">R2</text>
+  <rect x="460" y="350" width="160" height="56" rx="12" fill="#0f7a72"/>
+  <text x="540" y="385" text-anchor="middle" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">R3</text>
+  <rect x="680" y="120" width="360" height="300" rx="8" fill="#ffffff" stroke="#d5dee6" stroke-width="2"/>
+  <line x1="860" y1="120" x2="860" y2="420" stroke="#0072b2" stroke-width="4"/>
+  <line x1="860" y1="270" x2="1040" y2="270" stroke="#0f7a72" stroke-width="4"/>
+  <text x="770" y="270" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">R1</text>
+  <text x="950" y="210" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">R2</text>
+  <text x="950" y="350" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">R3</text>
+  <text x="860" y="450" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">X1</text>
+  <text x="1060" y="280" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">X2</text>
+  <text x="560" y="470" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="18">Leaves are rectangular regions. Each split uses one predictor at a time.</text>
+
+</svg>
