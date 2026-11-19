@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="440" viewBox="0 0 1120 440">
+<rect width="1120" height="440" fill="#ffffff"/>
+<g stroke="#7a94ac" stroke-width="3" fill="none"><path d="M560 92 L300 182 M560 92 L825 182 M300 247 L170 340 M300 247 L430 340"/></g>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+<rect x="413" y="20" width="294" height="75" rx="13" fill="#e8f3fb" stroke="#0072b2" stroke-width="2"/><text x="560" y="51" font-size="24" font-weight="bold" fill="#1c2430">Study hours ≥ 5?</text><text x="560" y="78" font-size="17" fill="#5c6b78">Start at the root</text>
+<text x="392" y="141" font-size="20" fill="#47647a">No</text><text x="721" y="141" font-size="20" fill="#47647a">Yes</text>
+<rect x="166" y="182" width="268" height="69" rx="12" fill="#e8f3fb" stroke="#0072b2" stroke-width="2"/><text x="300" y="222" font-size="23" font-weight="bold" fill="#1c2430">Attendance ≥ 80%?</text>
+<rect x="712" y="182" width="225" height="69" rx="12" fill="#e5f4e9" stroke="#378a58" stroke-width="2"/><text x="825" y="222" font-size="26" font-weight="bold" fill="#257047">PASS</text>
+<text x="215" y="291" font-size="18" fill="#47647a">No</text><text x="386" y="291" font-size="18" fill="#47647a">Yes</text>
+<rect x="69" y="340" width="200" height="65" rx="12" fill="#fcece9" stroke="#d56c5c" stroke-width="2"/><text x="169" y="381" font-size="25" font-weight="bold" fill="#a04537">FAIL</text>
+<rect x="330" y="340" width="200" height="65" rx="12" fill="#e5f4e9" stroke="#378a58" stroke-width="2"/><text x="430" y="381" font-size="25" font-weight="bold" fill="#257047">PASS</text>
+</g>
+<g font-family="Arial, sans-serif" fill="#5c6b78"><text x="970" y="70" font-size="18">Features → questions</text><text x="970" y="101" font-size="18">Branches → paths</text><text x="970" y="132" font-size="18">Leaves → predictions</text></g>
+</svg>
