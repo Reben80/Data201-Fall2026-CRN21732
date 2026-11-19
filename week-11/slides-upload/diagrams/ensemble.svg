@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="480" viewBox="0 0 1120 480">
+  <rect width="1120" height="480" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="42" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Ensemble idea: many trees, one answer</text>
+  <rect x="80" y="90" width="180" height="90" rx="14" fill="#0072b2"/>
+  <text x="170" y="145" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">Tree 1</text>
+  <rect x="300" y="90" width="180" height="90" rx="14" fill="#0f7a72"/>
+  <text x="390" y="145" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">Tree 2</text>
+  <rect x="520" y="90" width="180" height="90" rx="14" fill="#c45c26"/>
+  <text x="610" y="145" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">Tree 3</text>
+  <rect x="740" y="90" width="180" height="90" rx="14" fill="#5c6b78"/>
+  <text x="830" y="145" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="650">...</text>
+  <line x1="170" y1="180" x2="560" y2="280" stroke="#1c2430" stroke-width="3"/>
+  <line x1="390" y1="180" x2="560" y2="280" stroke="#1c2430" stroke-width="3"/>
+  <line x1="610" y1="180" x2="560" y2="280" stroke="#1c2430" stroke-width="3"/>
+  <line x1="830" y1="180" x2="560" y2="280" stroke="#1c2430" stroke-width="3"/>
+  <rect x="380" y="290" width="360" height="90" rx="14" fill="#1c2430"/>
+  <text x="560" y="335" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="650">Average / vote</text>
+  <text x="560" y="360" text-anchor="middle" fill="#9fb0bf" font-family="Montserrat, Arial, sans-serif" font-size="14">errors cancel; variance drops</text>
+  <text x="560" y="450" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="17">Trees must be different. Identical trees give almost no gain from averaging.</text>
+</svg>

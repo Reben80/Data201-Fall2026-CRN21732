@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="480" viewBox="0 0 1120 480">
+  <rect width="1120" height="480" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="42" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Why different trees? Strong predictors dominate</text>
+  <text x="280" y="100" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">All predictors available</text>
+  <text x="840" y="100" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">Random subset of m features</text>
+  <rect x="120" y="130" width="140" height="70" rx="12" fill="#0072b2"/><text x="190" y="172" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Thal</text>
+  <rect x="280" y="130" width="140" height="70" rx="12" fill="#0072b2"/><text x="350" y="172" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Thal</text>
+  <rect x="120" y="240" width="140" height="70" rx="12" fill="#0072b2"/><text x="190" y="282" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Thal</text>
+  <text x="280" y="360" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="650">Same top split every time</text>
+  <rect x="680" y="130" width="140" height="70" rx="12" fill="#0f7a72"/><text x="750" y="172" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Ca</text>
+  <rect x="840" y="130" width="140" height="70" rx="12" fill="#c45c26"/><text x="910" y="172" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Age</text>
+  <rect x="760" y="240" width="140" height="70" rx="12" fill="#0072b2"/><text x="830" y="282" text-anchor="middle" fill="#fff" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Thal</text>
+  <text x="840" y="360" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="650">Different roots → decorrelated</text>
+  <text x="560" y="440" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="17">Averaging similar trees barely reduces variance. Force diversity with random feature subsets.</text>
+</svg>

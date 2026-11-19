@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="480" viewBox="0 0 1120 480">
+  <rect width="1120" height="480" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="42" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Breast cancer: tree vs forest (book-style numbers)</text>
+  <rect x="48" y="80" width="330" height="300" rx="16" fill="#ffffff" stroke="#d7e0e8"/>
+  <text x="213" y="130" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Unpruned tree</text>
+  <text x="213" y="200" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18">Train 1.000</text>
+  <text x="213" y="250" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="18">Test 0.937</text>
+  <rect x="395" y="80" width="330" height="300" rx="16" fill="#ffffff" stroke="#d7e0e8"/>
+  <text x="560" y="130" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Tree depth 4</text>
+  <text x="560" y="200" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18">Train 0.988</text>
+  <text x="560" y="250" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="18">Test 0.951</text>
+  <rect x="742" y="80" width="330" height="300" rx="16" fill="#ffffff" stroke="#0072b2" stroke-width="2"/>
+  <text x="907" y="130" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Forest 100 trees</text>
+  <text x="907" y="200" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18">Train 1.000</text>
+  <text x="907" y="250" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="18">Test 0.972</text>
+  <text x="560" y="440" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">Forest beats the single tree with little tuning. Compare roughly if splits differ.</text>
+</svg>

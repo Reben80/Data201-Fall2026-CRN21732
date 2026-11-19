@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="480" viewBox="0 0 1120 480">
+  <rect width="1120" height="480" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="42" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Forest vs boosting</text>
+  <rect x="60" y="90" width="480" height="320" rx="16" fill="#ffffff" stroke="#0072b2" stroke-width="2"/>
+  <text x="300" y="140" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="26" font-weight="700">Random forest</text>
+  <text x="300" y="200" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="17">Trees built independently</text>
+  <text x="300" y="240" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="17">Usually deeper trees</text>
+  <text x="300" y="280" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="17">Random feature subsets</text>
+  <text x="300" y="320" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="17">More trees: more stable</text>
+  <text x="300" y="360" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">Robust; try first</text>
+  <rect x="580" y="90" width="480" height="320" rx="16" fill="#ffffff" stroke="#c45c26" stroke-width="2"/>
+  <text x="820" y="140" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="26" font-weight="700">Gradient boosting</text>
+  <text x="820" y="200" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="17">Trees built in sequence</text>
+  <text x="820" y="240" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="17">Usually shallow (1-5)</text>
+  <text x="820" y="280" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="17">Each tree fixes past errors</text>
+  <text x="820" y="320" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="17">More trees: can overfit</text>
+  <text x="820" y="360" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">More sensitive to settings</text>
+</svg>

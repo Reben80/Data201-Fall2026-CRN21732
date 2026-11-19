@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="42" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Hyperparameters from a bias-variance view</text>
+  <rect x="48" y="80" width="330" height="340" rx="16" fill="#ffffff" stroke="#0072b2" stroke-width="2"/>
+  <text x="213" y="130" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="700">n_estimators</text>
+  <text x="213" y="180" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">Turn UP</text>
+  <text x="213" y="230" text-anchor="middle" fill="#3d4c5c" font-family="Montserrat, Arial, sans-serif" font-size="16">Lower variance</text>
+  <text x="213" y="270" text-anchor="middle" fill="#3d4c5c" font-family="Montserrat, Arial, sans-serif" font-size="16">Does not overfit more</text>
+  <text x="213" y="310" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">Costs time and memory</text>
+  <rect x="395" y="80" width="330" height="340" rx="16" fill="#ffffff" stroke="#0f7a72" stroke-width="2"/>
+  <text x="560" y="130" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="700">max_features</text>
+  <text x="560" y="180" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">Turn DOWN</text>
+  <text x="560" y="230" text-anchor="middle" fill="#3d4c5c" font-family="Montserrat, Arial, sans-serif" font-size="16">Trees less alike</text>
+  <text x="560" y="270" text-anchor="middle" fill="#3d4c5c" font-family="Montserrat, Arial, sans-serif" font-size="16">Averaging helps more</text>
+  <text x="560" y="310" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">Each tree a bit weaker</text>
+  <rect x="742" y="80" width="330" height="340" rx="16" fill="#ffffff" stroke="#c45c26" stroke-width="2"/>
+  <text x="907" y="130" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="700">max_depth</text>
+  <text x="907" y="180" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="650">Turn DOWN</text>
+  <text x="907" y="230" text-anchor="middle" fill="#3d4c5c" font-family="Montserrat, Arial, sans-serif" font-size="16">Less overfitting</text>
+  <text x="907" y="270" text-anchor="middle" fill="#3d4c5c" font-family="Montserrat, Arial, sans-serif" font-size="16">Smaller, faster trees</text>
+  <text x="907" y="310" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">Too small underfits</text>
+  <text x="560" y="460" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">Fix random_state so demos and labs are reproducible.</text>
+</svg>

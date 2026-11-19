@@ -166,13 +166,12 @@ ISLP is also available as a free PDF from the [authors' website](https://www.sta
 ---
 
 ### [Week 11 — Nov 12](week-11/)
-**End-to-end model comparison**
-- Pipelines and tuning
-- Comparing logistic / regularized models with trees and ensembles
+**Ensemble methods — random forests**
+- Bagging and random feature subsets
+- Tuning forests and reading importances
+- Short contrast with boosting
 
-**Project 2 due**
-
-**Resources / assignment:** Integrated ISLP + Müller & Guido workflow
+**Resources / assignment:** ISLP Ch. 8; Müller & Guido Ch. 2; digits random-forest lab
 
 📁 [Open week materials →](week-11/)
 

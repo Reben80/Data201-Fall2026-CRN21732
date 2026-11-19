@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="500" viewBox="0 0 1120 500">
+  <rect width="1120" height="500" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="42" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">How a random forest works</text>
+  <rect x="48" y="80" width="320" height="160" rx="16" fill="#ffffff" stroke="#0072b2" stroke-width="2"/>
+  <text x="208" y="120" text-anchor="middle" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="700">1. Many trees</text>
+  <text x="208" y="160" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="16">n_estimators = 100</text>
+  <text x="208" y="190" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">Bootstrap rows for each tree</text>
+  <rect x="400" y="80" width="320" height="160" rx="16" fill="#ffffff" stroke="#0f7a72" stroke-width="2"/>
+  <text x="560" y="120" text-anchor="middle" fill="#0f7a72" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="700">2. Random features</text>
+  <text x="560" y="160" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="16">At each split, try only m</text>
+  <text x="560" y="190" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">Classification: m ≈ √p</text>
+  <rect x="752" y="80" width="320" height="160" rx="16" fill="#ffffff" stroke="#c45c26" stroke-width="2"/>
+  <text x="912" y="120" text-anchor="middle" fill="#c45c26" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="700">3. Combine</text>
+  <text x="912" y="160" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="16">Average probabilities</text>
+  <text x="912" y="190" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="15">or average numeric predictions</text>
+  <rect x="48" y="280" width="1024" height="160" rx="16" fill="#ffffff" stroke="#d7e0e8"/>
+  <text x="80" y="330" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="650">Heart example: p = 13 predictors</text>
+  <text x="80" y="370" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="17">Bagging uses m = 13 (all). Random forest uses m ≈ 4. Trees become less alike, so averaging helps more.</text>
+  <text x="80" y="410" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="17">sklearn averages class probabilities, then picks the class with the highest average.</text>
+</svg>

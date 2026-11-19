@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="480" viewBox="0 0 1120 480">
+  <rect width="1120" height="480" fill="#f7f9fb" rx="20"/>
+  <text x="48" y="42" fill="#0072b2" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="700">Heart importances (relative to Thal = 100)</text>
+  <rect x="200" y="100" width="700" height="36" rx="8" fill="#0072b2"/><text x="180" y="125" text-anchor="end" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="650">Thal</text><text x="920" y="125" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">100</text>
+  <rect x="200" y="160" width="385" height="36" rx="8" fill="#0f7a72"/><text x="180" y="185" text-anchor="end" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="650">Ca</text><text x="600" y="185" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">55</text>
+  <rect x="200" y="220" width="350" height="36" rx="8" fill="#5c6b78"/><text x="180" y="245" text-anchor="end" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="650">ChestPain</text><text x="570" y="245" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">~50</text>
+  <rect x="200" y="280" width="210" height="36" rx="8" fill="#9fb0bf"/><text x="180" y="305" text-anchor="end" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="650">Others</text>
+  <text x="560" y="390" text-anchor="middle" fill="#1c2430" font-family="Montserrat, Arial, sans-serif" font-size="17">High importance = the forest used it a lot for impurity reduction.</text>
+  <text x="560" y="430" text-anchor="middle" fill="#5c6b78" font-family="Montserrat, Arial, sans-serif" font-size="16">Not a causal claim. Forest importances are usually stabler than one tree.</text>
+</svg>
